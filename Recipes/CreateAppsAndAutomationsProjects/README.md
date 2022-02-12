@@ -22,11 +22,46 @@ Access Administration menu and select Repository and registry access
 ![menu](images/Fig1.gif)
 
 
+optional: use the Process Admin Console to add users/groups to tw_admins and tw_authors groups
+
+![menu](images/Fig3.gif)
+
+
+add users/groups using Add button
+
+![menu](images/Fig4.gif)
+
+then select the role (Admin/Edit/Read)
+
+![menu](images/Fig2.gif)
+
 https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=access-managing-repository-business-applications
 
 ### Managing access to the repository for workflow business automations
 
+Access Administration menu, select Business automations 
+
+![menu](images/Fig5.gif)
+
+select Workflow then Administration
+
+add users/groups using Add button
+
+![menu](images/Fig4.gif)
+
+then select the role (Admin/Edit/Read)
+
+![menu](images/Fig6.gif)
+
 https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=access-managing-repository-workflow-business-automations
+
+Assign access to workflows that have case features in the Case administration client
+
+Select dev_env_connection_definition then View and Edit, select Security tab then search for user/group name the add it to project area
+
+![menu](images/Fig8.gif)
+
+Now you are ready to create new projects.
 
 ## Create an Application project
 
