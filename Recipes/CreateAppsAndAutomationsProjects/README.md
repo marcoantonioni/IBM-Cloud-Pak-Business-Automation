@@ -104,11 +104,11 @@ name it then press Create button, the process app editor is now open
 
 ![menu](images/Fig19.gif)
 
-go back to Business automation and select Workflow then Open the newly created process app
+go back to Business automation and select Workflow then click on the newly created process app
 
 ![menu](images/Fig20.gif)
 
-then click on process app name
+in workflow app info panel 
 
 ![menu](images/Fig21.gif)
 
@@ -117,4 +117,7 @@ selct Collaborators tab then Add users/group as done before for the business app
 
 That's all folks !
 
+
 Enjoy your IBM Cloud Pak for Business Automation.
+
+https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation
