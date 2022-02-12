@@ -23,11 +23,13 @@ Access Administration menu and select Repository and registry access
 
 
 optional: use the Process Admin Console to add users/groups to tw_admins and tw_authors groups
+![menu](images/Fig9.gif)
+
 
 ![menu](images/Fig3.gif)
 
 
-add users/groups using Add button
+then back to Collaborators tab add users/groups using Add button
 
 ![menu](images/Fig4.gif)
 
@@ -63,9 +65,56 @@ Select dev_env_connection_definition then View and Edit, select Security tab the
 
 Now you are ready to create new projects.
 
+
 ## Create an Application project
 
+Access Administration menu, select Business Applications 
 
+![menu](images/Fig10.gif)
+
+select Create then Application
+
+![menu](images/Fig11.gif)
+
+name it then press Create button, the application editor is now open
+
+![menu](images/Fig12.gif)
+
+go back to Business Applications and Open the new app
+
+![menu](images/Fig13.gif)
+
+selct Collaborators tab then Add users/group
+
+![menu](images/Fig14.gif)
+![menu](images/Fig15.gif)
+
+and select the role
+
+![menu](images/Fig16.gif)
 
 ## Create an Automation project
 
+Access Administration menu, select Business Automations
+then selcect Create, Workflow and Workflow automation 
+
+![menu](images/Fig17.gif)
+
+name it then press Create button, the process app editor is now open
+
+![menu](images/Fig19.gif)
+
+go back to Business automation and select Workflow then Open the newly created process app
+
+![menu](images/Fig20.gif)
+
+then click on process app name
+
+![menu](images/Fig21.gif)
+
+selct Collaborators tab then Add users/group as done before for the business app.
+
+
+That's all folks !
+
+Enjoy your IBM Cloud Pak for Business Automation.
