@@ -18,6 +18,7 @@ https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.x?topic=projects-g
 ### Managing access to the repository for business applications
 
 Access Administration menu and select Repository and registry access
+
 ![menu](images/Fig1.gif)
 
 
